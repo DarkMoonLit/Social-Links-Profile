@@ -43,6 +43,7 @@ button {
     font-family: 'Inter';
     font-size: 12px;
     border-radius: 5px;
+    border: 0;
 }
 
 .user {
@@ -59,7 +60,7 @@ button {
 
 img {
     border-radius: 50%;
-    width: 50%;
+    width: 30%;
 }
 
 button:hover {
